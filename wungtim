@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am wungtim on github.
+  * I am wungtim (https://keybase.io/wungtim) on keybase.
+  * I have a public key ASAWqov8ozY5LpLN-EkJP2nd0Alp6l-Wy59CoVmxYeb6OQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012016aa8bfca336392e92cdf849093f69ddd00969ea5f96cb9f42a159b161e6fa390a",
+      "host": "keybase.io",
+      "kid": "012016aa8bfca336392e92cdf849093f69ddd00969ea5f96cb9f42a159b161e6fa390a",
+      "uid": "efc55abd5be5e4de43043d3c9e67bf19",
+      "username": "wungtim"
+    },
+    "merkle_root": {
+      "ctime": 1568271560,
+      "hash": "13921dc28ef398a7be8dcaa8ed390dfbaf688da457acf6f7c673829d7f8dfc435294e3863f94ee513dfefb0de12056230060507d97ee0d25ad153cf34a8a8edd",
+      "hash_meta": "bc689926fe5f60949f4246b5eeabcff1bcd91712df89d56048a0f21b9fbbadd3",
+      "seqno": 6911255
+    },
+    "service": {
+      "entropy": "CYBFsEwaKNSRDDjze+eath1Z",
+      "name": "github",
+      "username": "wungtim"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568271568,
+  "expire_in": 504576000,
+  "prev": "c782b6f4044a6825415d5406ad34f68dc255fee48331ab4c29fd8034e98e81c7",
+  "seqno": 15,
+  "tag": "signature"
+}
+```
+
+with the key [ASAWqov8ozY5LpLN-EkJP2nd0Alp6l-Wy59CoVmxYeb6OQo](https://keybase.io/wungtim), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFqqL/KM2OS6SzfhJCT9p3dAJaepflsufQqFZsWHm+jkKp3BheWxvYWTESpcCD8Qgx4K29ARKaCVBXVQGrTT2jcJV/uSDMatMKf2ANOmOgcfEIChF1NF7Vn2i8t8JaFToIQo1YU2GkuSx86RMSZOO5vuhAgHCo3NpZ8RAclx629r/RxSCU6XnW2TpA+AHU1kFQ3c8icrEOuh6ThjK0xtjxU/HZhqybS6cRLxAtMCmlCcvQGj6d60U37LiCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEdAgkAtSXsxpfddC4jWaIsBU2VoE4/+ri5nL3XgXGueo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/wungtim
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id wungtim
+```
